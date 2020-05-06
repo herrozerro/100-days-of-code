@@ -8,4 +8,12 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
+### Day 1: May 6, 2020
+
+**Today's Progress**: Spent all of my time messing with [wasm-git](https://github.com/petersalomonsen/wasm-git) and blazor to see if this is feasible.  Not sure if I made any progress.
+
+**Thoughts:** Trying not to get discouraged by finding yet another possible dead end.
+
+**Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
+
 
