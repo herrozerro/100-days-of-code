@@ -8,7 +8,7 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
-### Day 1: May 6, 2020
+### Day 2: May 6, 2020
 
 **Today's Progress**: Spent all of my time messing with [wasm-git](https://github.com/petersalomonsen/wasm-git) and blazor to see if this is feasible.  Not sure if I made any progress.
 
@@ -16,4 +16,11 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
+### Day 2: May 6, 2020
+
+**Today's Progress**: Working with a git-wasm library.  trying to figure out if I can use this with blazor.  If not, maybe I need to switch stacks and go node.
+
+**Thoughts:** I had fun playing with a project and tinkering with it to see how it worked
+
+**Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
