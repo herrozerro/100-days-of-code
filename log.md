@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 5, 2020
+### Day 1: May 4, 2020
 
 **Today's Progress**: Personal Project, Writing Git.  Starting over on old xamerin project.  Going with dotnet core and WPF for now to get an actual working POC
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
-### Day 2: May 6, 2020
+### Day 2: May 5, 2020
 
 **Today's Progress**: Spent all of my time messing with [wasm-git](https://github.com/petersalomonsen/wasm-git) and blazor to see if this is feasible.  Not sure if I made any progress.
 
@@ -16,11 +16,19 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
-### Day 2: May 6, 2020
+### Day 3: May 6, 2020
 
 **Today's Progress**: Working with a git-wasm library.  trying to figure out if I can use this with blazor.  If not, maybe I need to switch stacks and go node.
 
 **Thoughts:** I had fun playing with a project and tinkering with it to see how it worked
+
+**Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
+
+### Day 4: May 7, 2020
+
+**Today's Progress**: Finally had the CORS issue explained to me so that it makes sense.  Started working on reverse proxy for Blazor Git
+
+**Thoughts:** Learned something new today.
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
