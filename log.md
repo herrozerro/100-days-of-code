@@ -32,3 +32,11 @@
 
 **Link to work:** [Writing Git](https://github.com/herrozerro/WritingGit)
 
+### Day 5: May 8, 2020
+
+**Today's Progress**: Added unidentified cypher functionality to cypherbot
+
+**Thoughts:** Felt good to just get some progress done.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
