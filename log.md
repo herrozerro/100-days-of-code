@@ -40,3 +40,10 @@
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
 
+### Day 6: May 9, 2020
+
+**Today's Progress**: Added unidentified Artifact functionality to cypherbot
+
+**Thoughts:** Getting more done on cypherbot
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
