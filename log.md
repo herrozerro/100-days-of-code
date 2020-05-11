@@ -47,3 +47,11 @@
 **Thoughts:** Getting more done on cypherbot
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 7: May 10, 2020
+
+**Today's Progress**: Worked on current character and recovery rolls in cypherbot
+
+**Thoughts:** Getting more done on cypherbot
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
