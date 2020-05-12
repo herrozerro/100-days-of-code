@@ -55,3 +55,11 @@
 **Thoughts:** Getting more done on cypherbot
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 8: May 11, 2020
+
+**Today's Progress**: Worked on resetting character recovery rolls in cypherbot and started messing around with a character utility
+
+**Thoughts:** Getting more done on cypherbot
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
