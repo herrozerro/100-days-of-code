@@ -63,3 +63,11 @@
 **Thoughts:** Getting more done on cypherbot
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 9: May 12, 2020
+
+**Today's Progress**: Added a WPF application to start building a character manager.
+
+**Thoughts:** I was tired tonight, but I knuckled down and started learning WPF.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
