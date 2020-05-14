@@ -71,3 +71,10 @@
 **Thoughts:** I was tired tonight, but I knuckled down and started learning WPF.
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 9: May 13, 2020
+
+**Today's Progress**: Branched off and did some character upgrades.  Added pool objects and made the export drop a text file if over 2000 characters
+**Thoughts:** Did my hour over lunch, I felt more productive.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
