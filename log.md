@@ -78,3 +78,27 @@
 **Thoughts:** Did my hour over lunch, I felt more productive.
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 11: May 14, 2020
+
+**Today's Progress**: Forgot to log the 14th and 15th, just got to the end of each night and collapsed.  Between these two days I made a lot of code cleanups to Cypher Bot.  Refactored a lot and deleted old classes.
+
+**Thoughts:** 
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 12: May 15, 2020
+
+**Today's Progress**: Forgot to log the 14th and 15th, just got to the end of each night and collapsed.  Between these two days I made a lot of code cleanups to Cypher Bot.  Refactored a lot and deleted old classes.
+
+**Thoughts:** 
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 13: May 16, 2020
+
+**Today's Progress**: Missed this day, so much going on.  Went out with the family to walk in the park.  played boardgames online, watched a movie with the kids, and in general didn't have time.
+
+**Thoughts:** I needed a break from the computer.
+
+**Link to work:** 
