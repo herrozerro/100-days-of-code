@@ -102,3 +102,11 @@
 **Thoughts:** I needed a break from the computer.
 
 **Link to work:** 
+
+### Day 13a: May 17, 2020
+
+**Today's Progress**: Setup my Pi and worked with a friend on setting up docker.  Got instances working and refactored to use postgres instead of sqlite
+
+**Thoughts:** Really got a lot done!
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
