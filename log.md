@@ -110,3 +110,11 @@
 **Thoughts:** Really got a lot done!
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 14: May 18, 2020
+
+**Today's Progress**: Spent most of the day figuring out how to remove some files checked in accidently, git rebase --interactive! Then I worked on more code cleanup
+
+**Thoughts:** Fixing a mistake
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
