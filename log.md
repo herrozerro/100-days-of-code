@@ -118,3 +118,19 @@
 **Thoughts:** Fixing a mistake
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 15: May 19, 2020
+
+**Today's Progress**: Blazor Wasm was released today!  I spent a lot of time just messing around, trying to get my feel for it again.
+
+**Thoughts:** New toys are fun!
+
+**Link to work:** no real work to show
+
+### Day 16: May 20, 2020
+
+**Today's Progress**: More blazor!  Havent played with this in ages, looks like they split up the hosting and that's interesting.
+
+**Thoughts:** Still playing with toys
+
+**Link to work:** no real work to show
