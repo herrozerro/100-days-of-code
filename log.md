@@ -134,3 +134,11 @@
 **Thoughts:** Still playing with toys
 
 **Link to work:** no real work to show
+
+### Day 17: May 21, 2020
+
+**Today's Progress**: Spent time tinkering with blazor and deploying it to my pi docker server.
+
+**Thoughts:** Still playing with toys
+
+**Link to work:** no real work to show
