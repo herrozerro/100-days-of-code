@@ -142,3 +142,27 @@
 **Thoughts:** Still playing with toys
 
 **Link to work:** no real work to show
+
+### Day 18: May 22, 2020
+
+**Today's Progress**: Started working on Cyperbot.Blazor
+
+**Thoughts:** I remember why I like blazor so much.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 19: May 23, 2020
+
+**Today's Progress**: Got some progress done!  Worked on making components for Inventory, Pools, and Cyphers.
+
+**Thoughts:** Made a lot of progress today, I can actually save data and have it show up in the bot!
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 20: May 24, 2020
+
+**Today's Progress**: Did some refactoring, made things flow much better and made each component more encapsulated.
+
+**Thoughts:** I remember why I like blazor so much.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
