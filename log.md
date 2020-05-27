@@ -166,3 +166,19 @@
 **Thoughts:** I remember why I like blazor so much.
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 21: May 25, 2020
+
+**Today's Progress**: Added Artifacts, Recovery Rolls, and cleaned up old models.
+
+**Thoughts:** Getting a lot done.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 22: May 26, 2020
+
+**Today's Progress**: Got identity working in the app.
+
+**Thoughts:** Getting a lot done.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
