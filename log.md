@@ -182,3 +182,20 @@
 **Thoughts:** Getting a lot done.
 
 **Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+
+### Day 23: May 27, 2020
+
+**Today's Progress**: Spent the night learning how to customize identity and made a custom field as well as disabling registration
+
+**Thoughts:** Identity used to scare me, now it's not that bad.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
+
+### Day 24: May 28, 2020
+
+**Today's Progress**: Refactoring the Character page, working on making it fully functional.
+
+**Thoughts:** Getting a lot done.
+
+**Link to work:** [CypherBot](https://github.com/herrozerro/Cypher-Bot)
